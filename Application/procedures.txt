@@ -1,0 +1,4 @@
+1 tooth drilled>30.0
+2 hammer to teeth>40.0
+3 some sort of tooth surgery>60.0
+4 Xray>40.0
